@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Dataset and generated Delta Lake data
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
